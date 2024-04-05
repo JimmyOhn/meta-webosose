@@ -29,6 +29,8 @@ RDEPENDS:${PN} = " \
     gstreamer1.0-plugins-base \
     gstreamer1.0-plugins-good \
     gstreamer1.0-plugins-ugly \
+    nnstreamer \
+    tensorflow-lite \
     ${VIRTUAL-RUNTIME_umediaserver} \
 "
 
